@@ -1,2 +1,2 @@
-# Desing Web 2
+# Trabalho N2 (Prática)
 Trabalho de Design Web
